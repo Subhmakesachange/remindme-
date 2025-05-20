@@ -33,6 +33,8 @@ Nodemon for development
 🛠️ Features
 POST /api/reminders — create a new reminder
 
+Youtube link demo: https://youtu.be/Pb20Ir3LB6Q
+
 Input validation for all required fields
 
 Modular code: separate routes, models, and database connection
